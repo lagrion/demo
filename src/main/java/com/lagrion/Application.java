@@ -40,7 +40,8 @@ public class Application implements CommandLineRunner {
         //smsService.sendSms(null, "+8211112222", "안녕하세요 문자 테스트 입니다.");
 
 
-        sesService.sendEmail("test@gmail.com", "test@gmail.com", "테스트 amazon ses", "안녕하세요 테스트 입니다. <h1>tag hello</h1>");
+        //sesService.sendEmail("test@gmail.com", "test@gmail.com", "테스트 amazon ses", "안녕하세요 테스트 입니다. <h1>tag hello</h1>");
+        System.out.println("hello world");
 
     }
 }
