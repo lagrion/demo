@@ -164,7 +164,7 @@
 	<!--=== Content Part ===-->
 	<div class="container content">
 		<div class="row">
-			<div class="col-md-9">
+			<div class="col-md-8">
 				<div class="headline"><h2>운영 체제(Operating System)</h2></div>
 
 				<!-- Clients Block-->
@@ -176,10 +176,10 @@
 						<h3>윈도우 10 프로페셔널(Windows 10 professional)</h3>
 
 
-						<h4>1. 한글(KOR) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
-						<h4>2. 한글(KOR) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
-						<h4>3. 영어(ENG) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
-						<h4>4. 영어(ENG) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
+						<h5>1. 한글(KOR) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>2. 한글(KOR) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>3. 영어(ENG) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>4. 영어(ENG) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
 					</div>
 				</div>
 				<!-- End Clients Block-->
@@ -190,11 +190,11 @@
 						<img src="/resources/assets/img/win7_logo.png" class="img-responsive hover-effect" alt="" style="background: none; border: none" />
 					</div>
 					<div class="col-md-10">
-						<h3>윈도우 7(Windows 7)</h3>
-						<h4>1. 한글(KOR) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
-						<h4>2. 한글(KOR) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
-						<h4>3. 영어(ENG) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
-						<h4>4. 영어(ENG) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h4>
+						<h3>윈도우 7 프로페셔널(Windows 7 professional)</h3>
+						<h5>1. 한글(KOR) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>2. 한글(KOR) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>3. 영어(ENG) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>4. 영어(ENG) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
 					</div>
 				</div>
 				<!-- End Clients Block-->
@@ -209,12 +209,10 @@
 					</div>
 					<div class="col-md-10">
 						<h3>MS 오피스(MS Office)</h3>
-						<ol>
-							<li>한글 - <span class="label label-u label-blue">64bit</span> (KOR - 64bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-							<li>한글 - <span class="label label-u label-orange">32bit</span> (KOR - 32bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-							<li>영어 - <span class="label label-u label-blue">64bit</span> (ENG - 64bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-							<li>영어 - <span class="label label-u label-orange">32bit</span> (ENG - 32bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-						</ol>
+						<h5>1. 한글(KOR) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>2. 한글(KOR) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-kor-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>3. 영어(ENG) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>4. 영어(ENG) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ISO</span>   <a href="/download/win10-eng-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
 					</div>
 				</div>
 				<!-- End Clients Block-->
@@ -227,9 +225,8 @@
 					</div>
 					<div class="col-md-10">
 						<h3>함컴 오피스(Hancom Office)</h3>
-						<ol>
-							<li>한글 2014 <span class="label rounded label-default">파일 유형: ZIP</span> <a href="/download/hwp-2014"><i class="fa fa-cloud-download color-green"></i>다운로드</a></li>
-						</ol>
+						<h5>1. 한글(KOR) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ZIP</span>   <a href="/download/win10-kor-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>2. 한글(KOR) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ZIP</span>   <a href="/download/win10-kor-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
 					</div>
 				</div>
 				<!-- End Clients Block-->
@@ -244,36 +241,35 @@
 					</div>
 					<div class="col-md-10">
 						<h3>알툴즈(Altools)</h3>
-						<ol>
-							<li>한글 - <span class="label label-u label-blue">64bit</span> (KOR - 64bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-							<li>한글 - <span class="label label-u label-orange">32bit</span> (KOR - 32bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-							<li>영어 - <span class="label label-u label-blue">64bit</span> (ENG - 64bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-							<li>영어 - <span class="label label-u label-orange">32bit</span> (ENG - 32bit)  <a href="#"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></li>
-						</ol>
+						<h5>1. 한글(KOR) <span class="label label-u label-blue">64bit</span> <span class="label label-default"> 파일 유형: ZIP</span>   <a href="/download/win10-kor-64"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
+						<h5>2. 한글(KOR) <span class="label label-u label-orange">32bit</span> <span class="label label-default"> 파일 유형: ZIP</span>   <a href="/download/win10-kor-32"><i class="fa  fa-cloud-download color-green"></i>다운로드</a></h5>
 					</div>
 				</div>
 				<!-- End Clients Block-->
 				
 			</div><!--/col-md-9-->
 
-			<div class="col-md-3">
+			<div class="col-md-4">
 				<!-- Our Services -->
 				<div class="who margin-bottom-30">
 					<div class="headline"><h2>안내</h2></div>
-					<p>At vero eos et accusamus et iusto odio dign issimos ducimus qui blanditiis iusto.</p>
+					
+					
 					<ul class="list-unstyled">
-						<li><a href="#"><i class="fa fa-desktop"></i>Vivamus imperdiet condimentum</a></li>
-						<li><a href="#"><i class="fa fa-bullhorn"></i>Anim pariatur cliche squid</a></li>
-						<li><a href="#"><i class="fa fa-globe"></i>Eget placerat felis consectetur</a></li>
-						<li><a href="#"><i class="fa fa-group"></i>Condimentum diam eget placerat</a></li>
+						<li><p class="color-red">반드시 연구원 내부PC 에서만 설치 하시기 바랍니다.</p></li>
+						<li><p>설치 시 필요한 라이선스 키(시리얼 키)는 외부 유출을 방지하고자 별도의 경로로 제공해 드립니다.</p></li>
 					</ul>
 				</div>
 
 				<!-- About Us -->
 				<div class="headline"><h2>관련 문의</h2></div>
 				<div class="margin-bottom-30">
-					<p>At vero eos et acc usamus et iusto odio dign issimos ducimus atque corrupti quos.</p>
-					<p>dolores etrerum facilis est etenim a feugiat cupiditate non quos. <a class="linked color-green" href="#">Read more</a></p>
+					<address class="md-margin-bottom-40">
+						기획조정부 정보전산실 <br />
+						남상엽 <br />
+						내선: 1177<br />
+						이메일: <a href="mailto:synam@keri.re.kr" class="">synam@keri.re.kr</a>
+					</address>
 				</div>
 
 				
@@ -306,48 +302,6 @@
 							2017 &copy; All Rights Reserved.
 						</p>
 					</div>
-
-					<!-- Social Links -->
-					<div class="col-md-6">
-						<ul class="footer-socials list-inline">
-							<li>
-								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook">
-									<i class="fa fa-facebook"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Skype">
-									<i class="fa fa-skype"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google Plus">
-									<i class="fa fa-google-plus"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Linkedin">
-									<i class="fa fa-linkedin"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Pinterest">
-									<i class="fa fa-pinterest"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter">
-									<i class="fa fa-twitter"></i>
-								</a>
-							</li>
-							<li>
-								<a href="#" class="tooltips" data-toggle="tooltip" data-placement="top" title="" data-original-title="Dribbble">
-									<i class="fa fa-dribbble"></i>
-								</a>
-							</li>
-						</ul>
-					</div>
-					<!-- End Social Links -->
 				</div>
 			</div>
 		</div><!--/copyright-->
@@ -355,80 +309,6 @@
 	<!--=== End Footer Version 1 ===-->
 </div><!--/wrapper-->
 
-<!--=== Style Switcher ===-->
-<i class="style-switcher-btn fa fa-cogs hidden-xs"></i>
-<div class="style-switcher animated fadeInRight">
-	<div class="style-swticher-header">
-		<div class="style-switcher-heading">Style Switcher</div>
-		<div class="theme-close"><i class="icon-close"></i></div>
-	</div>
-
-	<div class="style-swticher-body">
-		<!-- Theme Colors -->
-		<div class="style-switcher-heading">Theme Colors</div>
-		<ul class="list-unstyled">
-			<li class="theme-default theme-active" data-style="default" data-header="light"></li>
-			<li class="theme-blue" data-style="blue" data-header="light"></li>
-			<li class="theme-orange" data-style="orange" data-header="light"></li>
-			<li class="theme-red" data-style="red" data-header="light"></li>
-			<li class="theme-light" data-style="light" data-header="light"></li>
-			<li class="theme-purple last" data-style="purple" data-header="light"></li>
-			<li class="theme-aqua" data-style="aqua" data-header="light"></li>
-			<li class="theme-brown" data-style="brown" data-header="light"></li>
-			<li class="theme-dark-blue" data-style="dark-blue" data-header="light"></li>
-			<li class="theme-light-green" data-style="light-green" data-header="light"></li>
-			<li class="theme-dark-red" data-style="dark-red" data-header="light"></li>
-			<li class="theme-teal last" data-style="teal" data-header="light"></li>
-		</ul>
-
-		<!-- Theme Skins -->
-		<div class="style-switcher-heading">Theme Skins</div>
-		<div class="row no-col-space margin-bottom-20 skins-section">
-			<div class="col-xs-6">
-				<button data-skins="default" class="btn-u btn-u-xs btn-u-dark btn-block active-switcher-btn handle-skins-btn">Light</button>
-			</div>
-			<div class="col-xs-6">
-				<button data-skins="dark" class="btn-u btn-u-xs btn-u-dark btn-block skins-btn">Dark</button>
-			</div>
-		</div>
-
-		<hr>
-
-		<!-- Layout Styles -->
-		<div class="style-switcher-heading">Layout Styles</div>
-		<div class="row no-col-space margin-bottom-20">
-			<div class="col-xs-6">
-				<a href="javascript:void(0);" class="btn-u btn-u-xs btn-u-dark btn-block active-switcher-btn wide-layout-btn">Wide</a>
-			</div>
-			<div class="col-xs-6">
-				<a href="javascript:void(0);" class="btn-u btn-u-xs btn-u-dark btn-block boxed-layout-btn">Boxed</a>
-			</div>
-		</div>
-
-		<hr>
-
-		<!-- Theme Type -->
-		<div class="style-switcher-heading">Theme Types and Versions</div>
-		<div class="row no-col-space margin-bottom-10">
-			<div class="col-xs-6">
-				<a href="E-Commerce/index.html" class="btn-u btn-u-xs btn-u-dark btn-block">Shop UI <small class="dp-block">Template</small></a>
-			</div>
-			<div class="col-xs-6">
-				<a href="One-Pages/Classic/index.html" class="btn-u btn-u-xs btn-u-dark btn-block">One Page <small class="dp-block">Template</small></a>
-			</div>
-		</div>
-
-		<div class="row no-col-space">
-			<div class="col-xs-6">
-				<a href="Blog-Magazine/index.html" class="btn-u btn-u-xs btn-u-dark btn-block">Blog <small class="dp-block">Template</small></a>
-			</div>
-			<div class="col-xs-6">
-				<a href="RTL/index.html" class="btn-u btn-u-xs btn-u-dark btn-block">RTL <small class="dp-block">Version</small></a>
-			</div>
-		</div>
-	</div>
-</div><!--/style-switcher-->
-<!--=== End Style Switcher ===-->
 
 <!-- JS Global Compulsory -->
 <script type="text/javascript" src="/resources/assets/plugins/jquery/jquery.min.js"></script>
